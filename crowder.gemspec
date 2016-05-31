@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
   s.email       = 'besicdenis@gmail.com'
   s.files       = ["lib/crowder.rb"]
   s.homepage    =
-    'http://rubygems.org/gems/crowder'
+    'http://github.com/denza/crowder'
   s.license       = 'Apache 2'
 end
